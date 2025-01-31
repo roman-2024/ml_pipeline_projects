@@ -30,4 +30,3 @@ if __name__ =="__main__":
     except Exception as e:
         logging.info("Divison by Zero")
         raise CustmeException(e,sys)
-       

@@ -18,6 +18,6 @@ logging.basicConfig(
     level=logging.INFO
 
 )
+
 #if __name__ == "__main__":
-#    logging.info("Logging started")
-#we use app.py 
+#    logging.info("Logging started") 
