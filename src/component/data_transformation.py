@@ -1,8 +1,3 @@
-# Handle Missing value
-# Outliers treatment
-#Hanle Imblanced dataset
-#Convert categorical columns into numerical columns
-
 import os, sys
 import pandas as pd
 import numpy as np
